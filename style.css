@@ -1,0 +1,20 @@
+/* Answer to: "disable scroll css" */
+
+/*
+  You must set the height and overflow of the body, to disable
+  scrolling.
+*/
+
+html, body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden
+}
+
+.welc {
+  text-align: center;
+}
+
+body {
+  border: 30px solid black; 
+}
