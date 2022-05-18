@@ -22,3 +22,31 @@ body {
 .nav-link {
   color: black;
 }
+
+.periodd {
+  border-right: 7px solid black;
+  height: 810px;
+  color: white;
+}
+
+.period {
+  border-left: 7px solid black;
+  height: 810px;
+  color: white;
+}
+
+li a:hover {
+  background-color: lightyellow;
+  color: white;
+}
+
+li a.active {
+  background-color: #D7E5F0;
+  color: black;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
