@@ -11,12 +11,12 @@ html, body {
   overflow: hidden
 }
 
-.welc {
-  text-align: center;
-}
-
 body {
     border: 30px solid black;
+}
+
+.welc {
+  text-align: center;
 }
 
 .nav-link {
