@@ -15,7 +15,10 @@ body {
     border: 30px solid black;
     font-family: "Nanum Myeongjo";
 }
-
+#bord {
+  border-right: 7px solid black;
+  border-left: 7px solid black;
+}
 .welc {
   text-align: center;
 }
@@ -64,3 +67,5 @@ li a.active {
 .button:hover {opacity: 1}
 
 .button {border-radius: 10px;}
+
+.
