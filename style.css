@@ -20,6 +20,9 @@ body {
   border-left: 7px solid black;
 }
 
+#resu {
+  font-family: "Nanum Myeongjo";
+}
 #back {
   border: 30px solid white;
   border-left: 200px solid black;
