@@ -26,6 +26,10 @@ body {
   border-right: 200px solid black;
 }
 
+.info {
+  border-bottom: 7px solid black;
+}
+
 .welc {
   text-align: center;
 }
