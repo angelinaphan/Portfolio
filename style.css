@@ -19,6 +19,13 @@ body {
   border-right: 7px solid black;
   border-left: 7px solid black;
 }
+
+#back {
+  border: 30px solid white;
+  border-left: 200px solid black;
+  border-right: 200px solid black;
+}
+
 .welc {
   text-align: center;
 }
@@ -29,13 +36,13 @@ body {
 
 .periodd {
   border-right: 7px solid black;
-  height: 810px;
+  height: 2000px;
   color: white;
 }
 
 .period {
   border-left: 7px solid black;
-  height: 810px;
+  height: 2000px;
   color: white;
 }
 
@@ -67,5 +74,3 @@ li a.active {
 .button:hover {opacity: 1}
 
 .button {border-radius: 10px;}
-
-.
