@@ -22,12 +22,30 @@ body {
 
 #resu {
   font-family: "Nanum Myeongjo";
+  border-left: 200px dashed black;
+  border-right: 200px dashed black;
+  border-top: 30px solid white;
+  border-bottom: 30px solid white;
 }
 #back {
   border: 30px solid white;
-  border-left: 200px solid black;
-  border-right: 200px solid black;
+  border-left: 200px dashed black;
+  border-right: 200px dashed black;
 }
+
+.head {
+  text-align: center;
+  font-weight: bold;
+}
+#resum {
+  font-weight: bold;
+}
+
+
+#r {
+  border-bottom: 7px solid black;
+}
+
 
 .info {
   border-bottom: 7px solid black;
@@ -71,12 +89,19 @@ li a.active {
   padding: 16px 32px;
   text-align: center;
   font-size: 16px;
-  margin: 4px 2px;
   opacity: 0.6;
   transition: 0.3s;
   display: inline-block;
+  margin: auto;
   text-decoration: none;
   cursor: pointer;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
 }
 
 .button:hover {opacity: 1}
