@@ -46,7 +46,11 @@ body {
   border-bottom: 7px solid black;
 }
 
-
+#gal {
+  border: 30px dashed black;
+  border-left: 30px solid black;
+  border-right: 30px solid black;
+}
 .info {
   border-bottom: 7px solid black;
   text-align: center;
