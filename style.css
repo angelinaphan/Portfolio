@@ -215,5 +215,5 @@ div.gallery {
 .gradient-button-5 {background-image: linear-gradient(to right,  #D7E5F0 0%, LIGHTYELLOW 51%, #D7E5F0 100%)}
 .gradient-button-5:hover { background-position: right center; }
 
-.gradient-button-6 {background-image: linear-gradient(to right, lightyellow 0%, white 51%, lightyellow 100%)}
+.gradient-button-6 {background-image: linear-gradient(to right, white 0%, lightyellow 51%, white 100%)}
 .gradient-button-6:hover { background-position: right center; }
