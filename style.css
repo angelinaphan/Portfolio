@@ -78,7 +78,7 @@ body {
 
 li a:hover {
   background-color: lightyellow;
-  color: white;
+  color: black;
 }
 
 li a.active {
